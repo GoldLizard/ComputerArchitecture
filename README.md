@@ -1,6 +1,3 @@
-# ComputerArchitecture
-Another class
-
 Given an .asm file with assembly code, this program will generate machine code for a mano machine.
 
 Instruction set:
